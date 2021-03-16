@@ -1,0 +1,57 @@
+
+.card{
+    padding: 0; border: solid 2px; margin: auto;
+    width: 80%;
+    margin: auto;
+    margin-bottom:12px;
+}
+.card-header{
+     width: 100%; height: 7px; background-color: violet; margin: 0;
+}
+.card-body{
+
+    background-color: rgb(255, 255, 255); color: rgb(0, 0, 0);
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 16px;
+}
+#cardhead{
+    background-color:rgb(132, 0, 255);
+}
+.card-footer{
+    width: 100%; height: 100%; 
+}
+input{
+    margin: 3px;
+}
+label{
+    margin: 3px;
+}
+input:focus{
+    outline: none;
+
+}
+textarea:focus{
+    outline: none;
+
+}
+.button{
+    position: relative;
+    border: none;
+    color: grey;
+    background-color: white;
+    left: 85%;
+}
+#DOB{
+    background-color: white;
+    border-radius: 2px;
+    border: none;
+    border-bottom: violet solid;
+}
+#card1{
+    padding: 0; border: 1px solid rgba(0,0,0,.125); margin: auto; margin-top: 60px; margin-bottom: 12px ;
+}
+.ppm{
+    background-color: violet;
+}
+
+/*rgb(103, 58, 183)*/
